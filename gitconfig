@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = winniemaizhao@gmail.com
+	name = Winnie Zhao
